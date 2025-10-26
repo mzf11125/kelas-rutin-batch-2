@@ -26,8 +26,8 @@ contract LiskGarden {
     address public owner;
     uint256 public plantCounter;
     GrowthStage public currentStage;
-    uint8 public constant PLANT_PRICE = 0.001 ether;
-    uint8 public constant HARVEST_REWARD = 0.003 ether;
+    uint256 public constant PLANT_PRICE = 0.001 ether;
+    uint256 public constant HARVEST_REWARD = 0.003 ether;
     uint8 public constant STAGE_DURATION = 1 minutes;
     uint8 public constant WATER_DEPLETION_TIME = 30 seconds;
     uint8 public constant WATER_DEPLETION_RATE = 2;
