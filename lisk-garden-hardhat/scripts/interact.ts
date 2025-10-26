@@ -1,4 +1,4 @@
-import { ethers } from "hardhat";
+import ethers from "hardhat";
 
 async function main() {
   // Replace with your deployed contract address
