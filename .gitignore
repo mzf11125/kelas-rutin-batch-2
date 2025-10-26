@@ -1,0 +1,27 @@
+# Node modules
+lisk-garden-hardhat/node_modules
+/node_modules
+
+# Compilation output
+lisk-garden-hardhat/dist
+/dist
+
+# pnpm deploy output
+lisk-garden-hardhat/bundle
+/bundle
+
+# Hardhat Build Artifacts
+lisk-garden-hardhat/artifacts
+/artifacts
+
+# Hardhat compilation (v2) support directory
+lisk-garden-hardhat/cache
+/cache
+
+# Typechain output
+lisk-garden-hardhat/types
+/types
+
+# Hardhat coverage reports
+/lisk-garden-hardhat/coverage
+/coverage
